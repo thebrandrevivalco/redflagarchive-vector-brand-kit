@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="980" height="360" viewBox="0 0 980 360" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape">
+  <g inkscape:label="flag" inkscape:groupmode="layer">
+    <rect x="78" y="52" width="13" height="248" fill="#090607"/>
+    <path d="M 96,84 C 150,58 200,92 262,74 L 262,168 C 200,186 150,152 96,178 Z" fill="#090607"/>
+    <path d="M 96,74 C 150,48 200,82 262,64 L 262,158 C 200,176 150,142 96,168 Z" fill="#FF0A54"/>
+  </g>
+  <g inkscape:label="wordmark" inkscape:groupmode="layer">
+    <text x="298" y="148" font-family="'Arial Black', Arial, sans-serif" font-weight="900" font-size="80" fill="#090607" letter-spacing="1">RED FLAG</text>
+    <text x="300" y="234" font-family="'Arial Black', Arial, sans-serif" font-weight="900" font-size="80" fill="#FF0A54" letter-spacing="9">ARCHIVE</text>
+    <text x="303" y="280" font-family="Arial, sans-serif" font-size="23" fill="#090607" letter-spacing="6">SEE IT. NAME IT. LOG IT.</text>
+  </g>
+</svg>

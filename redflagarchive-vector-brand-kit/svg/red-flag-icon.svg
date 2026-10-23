@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="240" height="300" viewBox="0 0 240 300" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape">
+  <g inkscape:label="icon" inkscape:groupmode="layer">
+    <rect x="38" y="18" width="11" height="252" fill="#090607"/>
+    <path d="M 55,28 C 95,8 140,36 196,20 L 196,104 C 140,120 95,92 55,114 Z" fill="#FF0A54" stroke="#090607" stroke-width="5"/>
+  </g>
+</svg>
